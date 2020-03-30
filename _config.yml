@@ -1,11 +1,14 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: Ojas Milk Products
+author: OjasAgro Pvt Ltd.
+email: ojasagro@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
+  Ojas Ojas Ojas Ojas
 
-twitter_username: macrod68
-github_username:  macrod68
+#baseurl: "/ojas/" # the subpath of your site, e.g. /blog/
+#url: "https://ojsg.z29.web.core.windows.net" # the base hostname & protocol for your site
+
+twitter_username: ojasdiary
+
 
 sass:
     style: compressed
